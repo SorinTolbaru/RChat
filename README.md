@@ -4,7 +4,7 @@ Description:
 
 RChat is a and responsive chat application that combines the power of React on the frontend with Node.js and Socket.io on the backend. This dynamic web application lets users to engage in real-time conversations with friends, colleagues, or anyone across the globe. The sleek and intuitive user interface not only showcases the capabilities of React but also ensures a smooth and immersive chatting experience.
 
-Key Features:
+# Key Features:
 
 Real-time Messaging: Leverage the power of Socket.io to enable instant messaging with real-time updates, fostering dynamic and fluid conversations.
 
@@ -18,11 +18,9 @@ Message History: Access a complete history of your conversations, allowing users
 
 Notification System: Stay informed with instant notifications for new messages, even when the application is in the background, thanks to the real-time capabilities of Socket.io.
 
-Customization Options: Personalize your chat experience with customizable themes, colors, and profile settings.
-
 User Status: Easily identify the online/offline status of your contacts, enhancing the overall user experience.
 
-Tech Stack:
+# Tech Stack:
 
 Frontend: React, JavaScript, HTML, CSS
 Backend: Node.js
